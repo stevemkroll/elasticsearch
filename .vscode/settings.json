@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "explorer.sortOrder": "type",
+    "go.lintOnSave": "workspace",
+    "go.useLanguageServer": true,
+    "go.testFlags": [
+        "-v",
+        "-count=1"
+    ],
+}
